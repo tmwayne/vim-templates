@@ -1,5 +1,5 @@
 ## Set up arg parser
-import argpase
+import argparse
 
 parser = argparse.ArgumentParser(description='Description')
 parser.add_argument('arg1', nargs=1, help='Unnamed argument')
